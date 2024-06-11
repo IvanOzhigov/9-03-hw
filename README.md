@@ -44,6 +44,7 @@
  ---
 
 # Ответ 
+![alt text](https://github.com/IvanOzhigov/9-03-hw/blob/scrin/1-1.png)
 
 ### Задание 2
 Добавьте в Zabbix два хоста и задайте им имена <фамилия и инициалы-1> и <фамилия и инициалы-2>. Например: ivanovii-1 и ivanovii-2.
@@ -62,6 +63,7 @@
  ---
 
 # Ответ
+![alt text](https://github.com/IvanOzhigov/9-03-hw/blob/scrin/2-1.png)
   
 ### Задание 3
 Привяжите созданный шаблон к двум хостам. Также привяжите к обоим хостам шаблон Linux by Zabbix Agent.
@@ -78,6 +80,9 @@
  ---
 
 # Ответ 
+ ![alt text](https://github.com/IvanOzhigov/9-03-hw/blob/scrin/3-1.png)
+ ![alt text](https://github.com/IvanOzhigov/9-03-hw/blob/scrin/3-2.png)
+ ![alt text](https://github.com/IvanOzhigov/9-03-hw/blob/scrin/3-3.png)
  
 ### Задание 4
 Создайте свой кастомный дашборд.
@@ -93,6 +98,7 @@
  ---
 
 # Ответ 
+![alt text](https://github.com/IvanOzhigov/9-03-hw/blob/scrin/4-1.png)
  
 ### Задание 5* со звёздочкой
 Создайте карту и расположите на ней два своих хоста.
